@@ -3,6 +3,7 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour 
 {
+    public float speed = 10;
     private void FixedUpdate()
     {
         float x = Input.GetAxis("Horizontal");
@@ -10,6 +11,6 @@ public class PlayerController : MonoBehaviour
 
         Rigidbody rigidbody = GetComponent<Rigidbody>();
 
-        rigidbody.AddForce(x, 0, z);
+        rigidbody.AddForce(x*speed, 0, z*speed);
     }
 }
