@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\FollowPlayer.cs" />
+    <Compile Include="Assets\Script\GameContorller.cs" />
     <Compile Include="Assets\Script\Item.cs" />
     <Compile Include="Assets\Script\PlayerController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
