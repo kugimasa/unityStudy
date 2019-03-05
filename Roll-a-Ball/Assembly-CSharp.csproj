@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\FollowPlayer.cs" />
+    <Compile Include="Assets\Script\Item.cs" />
     <Compile Include="Assets\Script\PlayerController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/KUGI/Unity/unityStudy/Roll-a-Ball/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
