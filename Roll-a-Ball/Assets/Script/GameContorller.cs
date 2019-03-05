@@ -5,8 +5,7 @@ public class GameContorller : MonoBehaviour
 {
     public UnityEngine.UI.Text scoreLabel;
     public GameObject winnerLabelObject;
-
-	void Update () {
+    void Update () {
         int count = GameObject.FindGameObjectsWithTag ("Item").Length;
         scoreLabel.text = count.ToString ();
         if(count == 0){
