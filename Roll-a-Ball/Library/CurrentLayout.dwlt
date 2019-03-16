@@ -113,10 +113,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 673
-  m_MinSize: {x: 917, y: 448}
-  m_MaxSize: {x: 22012, y: 10024}
+  m_MinSize: {x: 909, y: 448}
+  m_MaxSize: {x: 22004, y: 10000}
   vertical: 0
-  controlID: 198
+  controlID: 7632
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 199
+  controlID: 7633
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -384,9 +384,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.5878873, y: 1.8265553, z: 2.2476556}
+    m_Target: {x: 3.8761778, y: 8.023063, z: 5.1098557}
     speed: 2
-    m_Value: {x: 3.5878873, y: 1.8265553, z: 2.2476556}
+    m_Value: {x: 3.8761778, y: 8.023063, z: 5.1098557}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -414,13 +414,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.67281026, y: -0.00089068164, z: 0.00080984953, w: -0.7398141}
+    m_Target: {x: -0.19874275, y: 0.80017674, z: -0.37622032, w: -0.4227019}
     speed: 2
-    m_Value: {x: -0.67281026, y: -0.00089068164, z: 0.00080984953, w: -0.7398141}
+    m_Value: {x: -0.19874275, y: 0.80017674, z: -0.37622032, w: -0.4227019}
   m_Size:
-    m_Target: 20.662102
+    m_Target: -2.5160491
     speed: 2
-    m_Value: 20.662102
+    m_Value: -2.5160491
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -461,9 +461,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 94f4ffff
+      m_SelectedIDs: bce3ffff
+      m_LastClickedID: -7236
+      m_ExpandedIDs: 14f2ffffd6fbffff16290000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -479,7 +479,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 9}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -525,20 +525,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Script
+    - Assets/Material
   m_ViewMode: 1
   m_StartGridSize: 68
   m_LastFolders:
-  - Assets/Script
+  - Assets/Material
   m_LastFoldersGridSize: 68
   m_LastProjectPath: /Users/KUGI/Unity/unityStudy/Roll-a-Ball
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ce300000
-    m_LastClickedID: 12494
-    m_ExpandedIDs: 00000000462f0000d62f000000ca9a3b
+    m_SelectedIDs: 9c270000
+    m_LastClickedID: 10140
+    m_ExpandedIDs: 000000000e260000b826000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -566,7 +566,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000462f0000d62f000000ca9a3b
+    m_ExpandedIDs: 000000000e260000b826000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -610,7 +610,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 10}
+      m_ClientGUIView: {fileID: 0}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0

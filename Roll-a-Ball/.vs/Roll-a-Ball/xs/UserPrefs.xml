@@ -6,7 +6,7 @@
       <File FileName="Assets/Script/Item.cs" Line="11" Column="6" />
       <File FileName="Assets/Script/GameContorller.cs" Line="7" Column="41" />
       <File FileName="Assets/Script/DangerWall.cs" Line="3" Column="35" />
-      <File FileName="Assets/Script/ballRun.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/ballRun.cs" Line="17" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
